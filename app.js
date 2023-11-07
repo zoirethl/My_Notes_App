@@ -9,7 +9,7 @@ function crearNota() {
         // Crear un objeto nota
         const nuevaNota = {
             texto: noteText,
-            date: "17 de Octubre",
+            date: new Date().toLocalDateString(),
             id: Date.now() // Usamos la marca de tiempo como identificador único
         };
 
