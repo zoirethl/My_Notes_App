@@ -32,6 +32,7 @@ The app is in spanish... oops!
 ## Technologies Used
 
 - HTML
+- CSS
 - JavaScript
 
 ## How to Run Locally
