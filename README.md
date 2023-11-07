@@ -11,7 +11,7 @@ You can try out the live version of the My Notes app by clicking on the followin
 
 ## Screenshots
 The app is in spanish... oops!
-![My Notes Screenshot](Nov-07-2023%2015-34-31.gif.sb-70fc03f1-X4Z52o)
+![My Notes Screenshot](Nov-07-2023%2015-34-31.gif)
 
 ## How to Use
 
